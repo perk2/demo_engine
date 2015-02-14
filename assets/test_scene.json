@@ -1,0 +1,12 @@
+{ "program" : {
+    "name" : "p_basic",
+    "vertex_shader" : "basic.vert",
+    "fragment_shader" : "basic.frag",
+
+    "model" : {
+      "name" : "cube",
+      "mesh" : "cube.dae"
+    }
+  }
+}
+
